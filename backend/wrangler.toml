@@ -1,0 +1,7 @@
+name = "fitpulse-ai"
+main = "worker.js"
+compatibility_date = "2026-10-30"
+
+[vars]
+OPENAI_MODEL = "gpt-6-luna"
+ALLOWED_ORIGIN = "https://normundsusert.github.io"
